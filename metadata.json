@@ -1,0 +1,5 @@
+{
+  "name": "Veo Batch Video Generator",
+  "description": "A powerful batch processing system for generating videos using Google Gemini Veo models. Supports queue management, rate limiting, and inline previews.",
+  "requestFramePermissions": []
+}
